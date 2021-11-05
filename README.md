@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and reading
 - 🌱 I’m currently learning React Js and Python
 - 💞️ I’m looking to collaborate on front end development projects
-- 📫 How to reach me: faiththe1rst@gmail.com
+- 📫 How to reach me: okogbofaith@gmail.com
 
 <!---
 debaaah/debaaah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
