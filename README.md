@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Faith
+- 👋 Hi, I’m Deba
 - 👀 I’m interested in coding and reading
 - 🌱 I’m currently learning React Js and Python
 - 💞️ I’m looking to collaborate on front end development projects
