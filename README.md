@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faith
 - 👀 I’m interested in frontend development and and all its intricacies
 - 🌱 I’m currently learning State management, Data structures and algorithm and animations✨✨
-- 💞️ I’m looking to getting a fulltime job
+- 💞️ I’m looking to get a fulltime job
 - 📫 How to reach me: okogbofaith@gmail.com
 
 <!---
