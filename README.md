@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Faith
-- 👀 I’m interested in frontend development and and all its intricacies
-- 🌱 I’m currently learning Data structures and algorithm and animations✨✨
-- 💞️ I’m looking to get a contract jobs
-- 📫 How to reach me: okogbofaith@gmail.com
 
 <!---
 faithandjs/faithandjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
